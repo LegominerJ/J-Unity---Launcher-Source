@@ -1,0 +1,19 @@
+{
+  "games": [
+    {
+      "id": "project_boost",
+      "version": "1.01",
+      "download_url": "https://raw.githubusercontent.com/LegominerJ/J-Unity---Launcher-Source/master/Project%20Boost.zip"
+    },
+    {
+      "id": "rts_project",
+      "version": "1.13",
+      "download_url": "https://raw.githubusercontent.com/LegominerJ/J-Unity---Launcher-Source/master/RTS%20Project.zip"
+    },
+    {
+      "id": "robot_runner",
+      "version": "1.01",
+      "download_url": "https://raw.githubusercontent.com/LegominerJ/J-Unity---Launcher-Source/master/Robot%20Runner.zip"
+    }
+  ]
+}
