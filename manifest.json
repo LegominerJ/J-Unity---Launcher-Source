@@ -2,7 +2,7 @@
   "games": [
     {
       "name": "Launcher",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "download_url": "https://raw.githubusercontent.com/LegominerJ/J-Unity---Launcher-Source/master/Launcher.zip"
     },
     {
