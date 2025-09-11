@@ -1,6 +1,11 @@
 {
   "games": [
     {
+      "name": "Launcher",
+      "version": "0.0.1",
+      "download_url": "https://raw.githubusercontent.com/LegominerJ/J-Unity---Launcher-Source/master/Launcher.zip"
+    },
+    {
       "name": "Project Boost",
       "version": "1.01",
       "download_url": "https://raw.githubusercontent.com/LegominerJ/J-Unity---Launcher-Source/master/Project%20Boost.zip"
